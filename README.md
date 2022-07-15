@@ -17,3 +17,7 @@ Flutter Portfolio consists of Foods_catalog, Rental App, Covid 19 UI Design and 
 
 <img src ="hairstylist/screenshots/Screenshot 1.png">
 <img src ="hairstylist/screenshots/Screenshot 2.png">
+<img src ="hairstylist/screenshots/resized-image-Promo (2).jpeg">
+
+
+
